@@ -1,4 +1,4 @@
-# Barber
+# k4104487 블로그
 Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈 Barber is also available for [Ghost](https://github.com/samesies/barber-ghost).
 
 ![Barber](https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg "Barber")
@@ -29,7 +29,7 @@ Almost everything to personalize your site is in the ````_config.yml````.
 
 ```
 # Site/SEO settings
-email: okay@samesies.io
+email: k4104487@naver.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
