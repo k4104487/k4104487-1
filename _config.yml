@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: okay@samesies.io
-baseurl: "https://k4104487.github.io/k4104487-1.io/"
+baseurl: https://k4104487.github.io/k4104487-1.io/
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
